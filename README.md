@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-A hosted webpage for this project can be found [here](https://https://laurie1990.github.io/index.html)
+A hosted webpage for this project can be found [here](https://https://laurie1990.github.io)
 
 ### Before You Begin
 
